@@ -1,0 +1,73 @@
+
+/********************* section-one */
+.nandhu img {
+    height: 100px;
+    width: 100px;
+    margin-left: 50px;
+}
+
+.center {
+    text-align: center;
+}
+
+/********************* section-two and four */
+
+.centers {
+    margin-left: 470px;
+}
+
+/********************* section-five */
+
+.middle {
+    text-align: center;
+    margin-top: -20px;
+}
+
+.kattappa {
+    box-shadow: 0px 0px 15px rgb(3, 37, 73);
+}
+
+.devasena {
+    height: 30px;
+    width: 190px;
+}
+
+.avanthika {
+    height: 30px;
+    width: 190px;
+    margin-left: 83px;
+}
+
+.avanthikaa {
+    height: 30px;
+    width: 190px;
+    margin-left: 80px;
+}
+
+.avanthikaaa {
+    height: 30px;
+    width: 190px;
+    margin-left: 59px;
+}
+
+.avanthikaaaa {
+    height: 30px;
+    width: 190px;
+    margin-left: 45px;
+}
+
+.saami {
+    height: 35px;
+    width: 180px;
+    margin-left: 100px;
+    color: white;
+    background-color: green;
+    border: none;
+    border-radius: 17px;
+}
+
+
+
+
+
+

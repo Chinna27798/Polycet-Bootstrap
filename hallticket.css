@@ -1,0 +1,59 @@
+/********************* section-one */
+.nandhu img {
+    height: 100px;
+    width: 100px;
+    margin-left: 50px;
+}
+
+.center {
+    text-align: center;
+}
+
+/********************* section-two and four */
+
+.centers {
+    margin-left: 470px;
+}
+
+.middle {
+    text-align: center;
+    margin-top: -20px;
+
+}
+
+.an {
+    background: -webkit-linear-gradient(rgb(237 236 240), rgba(135, 60, 255, 0.0) 0%), -webkit-linear-gradient(-28deg, blue 44%, rgb(253 253 253) 0%);
+    box-shadow: 0px 0px 15px rgb(14 77 146);
+}
+
+.sivagami {
+    margin-left: 200px;
+    margin-top: 80px;
+    box-shadow: 0px 0px 15px rgb(3, 37, 73);
+}
+
+
+.class {
+    border-radius: 15px;
+    height: 30px;
+    width: 240px;
+    /* margin-left: 150px; */
+    background-color: green;
+    border: none;
+    color: white;
+}
+
+.rajamatha {
+    margin-left: 650px;
+    margin-top: -180px;
+    margin-bottom: 50px;
+}
+
+.rajamathad {
+    margin-left: 650px;
+    margin-top: -180px;
+    margin-bottom: 50px;
+}
+
+
+   

@@ -1,0 +1,51 @@
+
+/********************* section-one */
+.nandhu img {
+    height: 100px;
+    width: 100px;
+    margin-left: 50px;
+}
+
+.center {
+    text-align: center;
+}
+
+/********************* section-two and four */
+
+.centers {
+    margin-left: 470px;
+}
+
+/********************* section-five */
+
+.middle {
+    text-align: center;
+    margin-top: -20px;
+}
+
+.shadow {
+    box-shadow: 2px solid blue;
+}
+
+.bhahubali {
+    box-shadow: 0px 0px 15px rgb(3, 37, 73);
+}
+
+
+.saru {
+    height: 400px;
+    width: 100%;
+}
+
+.keerthi {
+    box-shadow: 0px 0px 10px rgb(27, 27, 101);
+}
+
+
+
+
+
+
+
+
+

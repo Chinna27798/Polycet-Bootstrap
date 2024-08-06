@@ -1,0 +1,83 @@
+
+/********************* section-one */
+.nandhu img {
+    height: 100px;
+    width: 100px;
+    margin-left: 50px;
+}
+
+.center {
+    text-align: center;
+}
+
+/********************* section-two and four */
+
+.centers {
+    margin-left: 470px;
+}
+
+/********************* section-five */
+
+.middle {
+    text-align: center;
+    margin-top: -20px;
+}
+
+.top {
+    margin-top: -50px;
+}
+
+.left {
+    margin-left: 30px;
+    box-shadow: 0px 0px 15px rgb(3, 37, 73);
+}
+
+.left1 {
+    margin-left: 60px;
+    box-shadow: 0px 0px 15px rgb(3, 37, 73);
+}
+
+.left2 {
+    margin-left: 60px;
+    box-shadow: 0px 0px 15px rgb(3, 37, 73);
+}
+
+.title {
+    background-color: green;
+    height: 35px;
+   justify-content: center;
+}
+
+.bichaladeva {
+    box-shadow: 0px 0px 15px rgb(3, 37, 73);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
